@@ -1,4 +1,4 @@
-const API_URL = "https://elom7p8hib.execute-api.sa-east-1.amazonaws.com/dev/tasks"; // URL base da AWS
+const API_URL = "https://rbwne74pyf.execute-api.sa-east-1.amazonaws.com/dev/tasks"; // URL base da AWS
 
 // GET
 function fetchTasks() {
