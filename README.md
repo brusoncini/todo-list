@@ -22,7 +22,7 @@ Acesse clicando [aqui](https://d1caz3q4tsz4it.cloudfront.net/)!
 - API RESTful implementada com API Gateway.
 - Hospedagem segura do front-end no S3 com HTTPS fornecido pelo CloudFront.
 
-## Endpoints 📌
+## 🔗 Endpoints
 
 ### Base URL
 ```
