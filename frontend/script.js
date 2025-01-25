@@ -1,4 +1,4 @@
-const API_URL = "https://rbwne74pyf.execute-api.sa-east-1.amazonaws.com/dev/tasks"; // URL base da AWS
+import { API_URL } from './config.js';
 
 // GET
 function fetchTasks() {
